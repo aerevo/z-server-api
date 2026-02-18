@@ -1,1 +1,26 @@
-node_modules
+# Dependencies
+node_modules/
+package-lock.json
+
+# Database
+*.db
+*.db-shm
+*.db-wal
+
+# Environment
+.env
+.env.local
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
